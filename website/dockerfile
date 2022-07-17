@@ -1,0 +1,4 @@
+from node:14
+WORKDIR /img-node-sprint2
+copy . .
+run npm install
